@@ -5,16 +5,16 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
-font: ''
+font: 'Minimal'
 font_size: L
 
 # SEO
 
 site_type: Person
 local_business_type: ''
-org_name: ''
+org_name: 'Shiv Nadar University'
 description: ''
 twitter: 'prakharrathi14'
 
