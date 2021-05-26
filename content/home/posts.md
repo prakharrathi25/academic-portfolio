@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Recent Posts
-subtitle:
+subtitle: I like to write from time to time. 
 
 content:
   # Page type to display. E.g. post, talk, publication...
