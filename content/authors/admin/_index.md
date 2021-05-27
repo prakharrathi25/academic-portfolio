@@ -45,6 +45,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/prakhar-rathi/
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/prakharrathi25/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/prakharrathi14

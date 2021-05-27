@@ -44,10 +44,33 @@ experience:
     date_start: '2020-08-31'
     date_end: '2020-09-27'
     description: |2-
+
+      * Completed the challenge - "Communicating High-Street Bakery Sales Predictions Using Counterfactual Explanations" presented by CatsAI
+      * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
+      * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
+  
+  - title: Financial ML Intern
+    company: Indian School of Business
+    company_url: 'https://www.turing.ac.uk/'
+    company_logo: org-isb
+    location: London, United Kingdom (Remote)
+    date_start: '2020-08-31'
+    date_end: '2020-09-27'
+    description: |2-
     
       * Completed the challenge - "Communicating High-Street Bakery Sales Predictions Using Counterfactual Explanations" presented by CatsAI
       * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
       * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
+
+      * Worked on developing and automating ﬁnancial trading strategies using seminal research papers. Implemented the following strategies and backtested them for over 15 years' data with positive returns:-
+        * Piotroski F Score - Value Investing for Indian Equity Market
+        * Momentum Strategy-Narasimhan Jegadeesh and Sheridan Titman: Returns to buying winners and Selling Losers
+
+      I conducted various test to ascertain the results which included downside risk measures like Value at Risk, CVaR, Semideviation, Sharpe and Sortino Ratios. I also developed pipelines which automated the process of investing and testing on past data using Python.
+
+      * Developed and deployed a machine learning tool for the Union Bank of India which allotted risk scores to customers based on past customer data. The bank used the model to decide which customers would receive a loan. My risk allocation model brought down the customer default rate by 12% on 2 years of testing data.
+
+      * Assisted ongoing research in the ﬁeld of ﬁnancial machine learning to help write a paper which was accepted in The Financial Review.
 
 design:
   columns: '2'
