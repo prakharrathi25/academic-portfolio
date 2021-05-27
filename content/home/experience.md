@@ -58,13 +58,9 @@ experience:
     date_end: '2020-08-01'
     description: |2-
     
-      * Completed the challenge - "Communicating High-Street Bakery Sales Predictions Using Counterfactual Explanations" presented by CatsAI
-      * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
-      * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
-
       * Worked on developing and automating ﬁnancial trading strategies using seminal research papers. Implemented the strategies, like Piotroski F Score and Momentum Trading Strategy, and backtested them for over 15 years' data with positive returns. 
 
-      I conducted various test to ascertain the results which included downside risk measures like Value at Risk, CVaR, Semideviation, Sharpe and Sortino Ratios. I also developed pipelines which automated the process of investing and testing on past data using Python.
+      * I conducted various test to ascertain the results which included downside risk measures like Value at Risk, CVaR, Semideviation, Sharpe and Sortino Ratios. I also developed pipelines which automated the process of investing and testing on past data using Python.
 
       * Developed and deployed a machine learning tool for the Union Bank of India which allotted risk scores to customers based on past customer data. The bank used the model to decide which customers would receive a loan. My risk allocation model brought down the customer default rate by 12% on 2 years of testing data.
 
