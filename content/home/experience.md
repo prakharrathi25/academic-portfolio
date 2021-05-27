@@ -62,11 +62,7 @@ experience:
       * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
       * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
 
-      * Worked on developing and automating ﬁnancial trading strategies using seminal research papers. Implemented the following strategies and backtested them for over 15 years' data with positive returns:-
-          <br>
-          <br> 
-        - Piotroski F Score - Value Investing for Indian Equity Market
-        - Momentum Strategy-Narasimhan Jegadeesh and Sheridan Titman: Returns to buying winners and Selling Losers
+      * Worked on developing and automating ﬁnancial trading strategies using seminal research papers. Implemented the strategies, like Piotroski F Score and Momentum Trading Strategy, and backtested them for over 15 years' data with positive returns. 
 
       I conducted various test to ascertain the results which included downside risk measures like Value at Risk, CVaR, Semideviation, Sharpe and Sortino Ratios. I also developed pipelines which automated the process of investing and testing on past data using Python.
 
