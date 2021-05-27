@@ -22,6 +22,7 @@ interests:
 - Computational Social Science
 - Natural Language Processing 
 - Machine Learning
+- Causal AI
 
 # Education to show in About widget
 education:
@@ -37,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:pr440@snu.edu.in'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/prakharrathi25
@@ -46,7 +47,7 @@ social:
   link: https://github.com/prakharrathi25
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/prakhar-rathi
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=2F6ZdIIAAAAJ&hl=en
@@ -54,9 +55,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "pr440@snu.edu.in"
@@ -64,6 +65,16 @@ email: "pr440@snu.edu.in"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+
+I am a data scientist with a passion for creating innovative solutions to complex problems.
+
+I am a senior at Shiv Nadar University, India and I will graduate in 2022. I am majoring in Computer Science Engineering with a minor in Economics. This helps me combine my technical knowledge with sound understanding of Finance and Economics. Currently, I am working as a summer research intern at the Center for Analytical Finance at Indian School of Business.
+
+I have a keen interest in research. Previously, I have worked under Dr. Vinita Krishna as an undergraduate researcher in the field of Business Intelligence and Patent Analysis. Our paper titled, "Novel Mixed-Encoding for Forecasting Patent Grant Duration" is under journal review by the World Patent Information.
+
+I am an avid debater and Model UN enthusiast. I have participated in over 50 parliamentary debates and Model UN conferences. This is where I get to argue, refine and contextualise my views. I love debating as a mental exercise because it helps me devlop my critical thinking ability as well as question the reasoning and evidence behind a statement. I have often applied these skills to scientific reasoning and hypothesis building. I often conduct training sessions for students in the field of leadership and public speaking.
+
+When I am not in front of a computer screen, I enjoy hiking to remote lands and cycling. I am always open to a match of lawn tennis or badminton. You can often find me reading Jeffrey Archer or humming to The Lumineers. I love indie and rock music ♪. You can know me better from my [music](https://open.spotify.com/playlist/55TKQygNmJjb38rjaDZ3NN?si=luxTkgeqRxC9rrDT4Mhe3A). In my last, Myers-Briggs personality test, I tested as ESTJ.
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
