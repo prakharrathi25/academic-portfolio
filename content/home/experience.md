@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Research Intern
+    company: National Institute for Research in Digital Science and Technology (INRIA)
+    company_url: 'https://www.inria.fr/en'
+    company_logo: org-inria
+    location: Lille, France
+    date_start: '2021-03-06'
+    date_end: '2021-06-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    
+        * Worked with the highest ranked research institute in France on a problem of suicide analysis in Lille.
+        * Used the socio-economic data collected from people who attempted suicide to predict whether they would attempt it again. It was also used to identify the factors which contribute to first time and repeated attempts.
+        * Implemented the concepts of semi-parametric regression, statistical modelling and spatial econometrics using R.   
+        * Our work determined the probablity of suicide attempts in the next 6 months with an AUC Score of 0.89. This work will be submitted to the local government in Lille and a paper will also be written.
         
   - title: Professor of Semiconductor Physics
     company: University X
