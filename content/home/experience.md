@@ -49,19 +49,6 @@ experience:
     * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
     * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
 
-  - title: Financial ML Research Intern 
-    company: Center for Analytical Finance, Indian School of Business
-    company_url: ''
-    company_logo: org-x
-    location: Hyderabad, India (Remote)
-    date_start: '2020-08-31'
-    date_end: '2020-09-27'
-    description: |2-
-
-    * Completed the challenge - "Communicating High-Street Bakery Sales Predictions Using Counterfactual Explanations" presented by CatsAI
-    * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
-    * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
-
 design:
   columns: '2'
 ---
