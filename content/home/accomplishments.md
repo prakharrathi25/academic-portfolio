@@ -68,5 +68,5 @@ item:
   url: "https://www.udacity.com/course/ai-for-trading--nd880"
 
 design:
-  columns: '3' 
+  columns: '2' 
 ---
