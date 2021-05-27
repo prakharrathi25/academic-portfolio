@@ -36,14 +36,18 @@ experience:
         * Implemented the concepts of semi-parametric regression, statistical modelling and spatial econometrics using R.   
         * Our work determined the probablity of suicide attempts in the next 6 months with an AUC Score of 0.89. This work will be submitted to the local government in Lille and a paper will also be written.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Study Group Participant
+    company: Alan Turing Institute for Artificial Intelligence
+    company_url: 'https://www.turing.ac.uk/'
+    company_logo: org-turing
+    location: London, United Kingdom (Remote)
+    date_start: '2020-08-31'
+    date_end: '2020-09-27'
+    description: |2-
+    
+      * Completed the challenge - "Communicating High-Street Bakery Sales Predictions Using Counterfactual Explanations" presented by CatsAI
+      * Collaborated with a team of 11 doctoral researchers globally to build predictive models with explainable AI approaches
+      * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
 
 design:
   columns: '2'
