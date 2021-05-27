@@ -63,7 +63,8 @@ experience:
       * Successfully analysed two years of bakery sales and weather data from 5000 sites to build predictive models and provided counterfactual explanations
 
       * Worked on developing and automating ﬁnancial trading strategies using seminal research papers. Implemented the following strategies and backtested them for over 15 years' data with positive returns:-
-
+          <br>
+          <br> 
         - Piotroski F Score - Value Investing for Indian Equity Market
         - Momentum Strategy-Narasimhan Jegadeesh and Sheridan Titman: Returns to buying winners and Selling Losers
 
@@ -81,7 +82,7 @@ experience:
     date_start: '2020-06-01'
     date_end: '2020-07-31'
     description: |2-
-    
+
       * Worked on a project by the Botnar Foundation to capture and understand what young people (age 10-24 yrs) today think about topics like their future, aspirations, concerns, and challenges they face, etc.
       
       * Collaborated with a team of 50 Machine Learning engineers to develop tools to analyze and understand the sentiments and aspirations of young people and performed a temporal analysis to understand how the sentiments have been changing over time, especially due to the Covid-19 Pandemic.
