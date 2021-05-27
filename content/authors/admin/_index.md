@@ -48,7 +48,6 @@ social:
 - icon: kaggle
   icon_pack: fab
   link: https://www.kaggle.com/prakharrathi25/
-social: 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/prakharrathi14
