@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: National Institute for Research in Digital Science and Technology (INRIA)
     company_url: 'https://www.inria.fr/en'
-    company_logo: org-inria
+    company_logo:
     location: Lille, France
     date_start: '2021-03-06'
     date_end: '2021-06-01'
