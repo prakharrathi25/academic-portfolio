@@ -53,17 +53,17 @@ item:
 
 - certificate_url: https://www.linkedin.com/in/prakhar-rathi/detail/treasury/education:660018129/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACWlVAUBbtb8d-IvA14hb9AbWP2Uc4dhO18%2C1591341724813)&section=education%3A660018129&treasuryCount=1
   date_end: 
-  date_start: "2020-05-01"
+  date_start: "2020-07-01"
   description: |2-
     * I completed Udacity's 6-month long nanodegree program. In this program, I analyzed real data and built financial models for trading. The program was divided into two parts.
 
     Part 1: Quantitative Trading
     Part 2: AI Algorithms in Trading
 
-  organization: Coursera
-  organization_url: https://www.coursera.org
+  organization: Udacity
+  organization_url: https://www.udacity.com/
   title: 'Advanced Trading Algorithms'
-  url: ""
+  url: "https://www.udacity.com/course/ai-for-trading--nd880"
 
 design:
   columns: '2' 
