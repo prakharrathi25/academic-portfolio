@@ -2,7 +2,7 @@
 title: Data Storyteller
 summary: Data Storyteller is an AI based tool that can take a data set, identify patterns in the data, can interpret the result, and can then produce an output story that is understandable to a business user based on the context.
 tags:
-- Deep Learning
+- apps
 date: "2021-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

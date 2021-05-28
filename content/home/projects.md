@@ -35,8 +35,6 @@ content:
     tag: Data Science
   - name: Tools and Applications
     tag: apps
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
