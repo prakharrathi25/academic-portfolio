@@ -1,4 +1,9 @@
 ---
+title: "My Projects"  # Add a page title.
+summary: "Hello!"  # Add a page description.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+# type: "widget_page"  # Page type is a Widget Page
+
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
@@ -14,7 +19,7 @@ subtitle: 'Some of the things I have built in the past'
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: allprojects
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -38,7 +43,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '3'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -50,3 +55,6 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+---
+
