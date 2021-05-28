@@ -29,6 +29,12 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Natural Language Processing
+    tag: nlp
+  - name: Data Science
+    tag: Data Science
+  - name: Tools and Applications
+    tag: apps
   - name: Other
     tag: Demo
 
