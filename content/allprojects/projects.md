@@ -6,14 +6,11 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
-# Make this page disappear from home page 
-active: false
-
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: 'Some of the things I have built in the past'
+# title: My Projects
+# subtitle: 'Some of the things I have built in the past.'
 
 content:
   # Page type to display. E.g. project.
@@ -35,21 +32,28 @@ content:
   - name: Natural Language Processing
     tag: nlp
   - name: Data Science
-    tag: Data Science
+    tag: data science
   - name: Tools and Applications
     tag: apps
+  - name: Others
+    tag: 'rest'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true   
 ---
+
+<div style="text-align:center;">
+    <h1 > My Projects </h1> 
+    <h3> Some of the things that I have built in the past! </h3>
+</div><br>

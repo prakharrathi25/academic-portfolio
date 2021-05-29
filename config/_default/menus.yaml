@@ -11,7 +11,7 @@ main:
     url: '#experience'
     weight: 15
   - name: Projects
-    url: '#projects'
+    url: '/allprojects'
     weight: 20
   - name: Blog
     url: '#posts'
@@ -25,9 +25,6 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: "Projects2"  # Title of the link.
-    url: "allprojects/"  # Widget Page folder name.
-    weight: 2  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
