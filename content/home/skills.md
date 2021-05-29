@@ -28,7 +28,7 @@ feature:
 - icon: "skills/djangoproject-icon"
   icon_pack: "custom"
   name: "Django"
-- icon: "skills/stata"
+- icon: "skills/Stata"
   icon_pack: "custom"
   name: "STATA"
 - icon: language
