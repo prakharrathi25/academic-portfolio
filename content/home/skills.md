@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle: 
+subtitle: My technical skills and core competencies
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -24,7 +24,25 @@ feature:
   name: Python
 - icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Analytics
+- icon: "skills/djangoproject-icon"
+  icon_pack: "custom"
+  name: "Django"
+- icon: "skills/stata"
+  icon_pack: "custom"
+  name: "STATA"
+- icon: language
+  icon_pack: fas
+  name: Natural Language Processing
+- icon: database
+  name: SQL
+  icon_pack: fas
+- icon: "skills/pytorch"
+  icon_pack: "custom"
+  name: PyTorch
+- icon: "skills/keras"
+  icon_pack: "custom"
+  name: Keras
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
