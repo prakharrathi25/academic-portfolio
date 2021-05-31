@@ -18,10 +18,10 @@ main:
     weight: 30
   - name: Publications
     url: '#publications'
-    weight: 50
-  - name: Certifications
-    url: '#certifications'
     weight: 55
+  - name: Achievements
+    url: '#achievements'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
