@@ -78,8 +78,8 @@ I am a data scientist with a passion for creating innovative solutions to comple
 
 Previously, I was working as a research intern with the [Inria-Modal Group](https://www.inria.fr/en) to identify and isolate the causes of suicides in Nord-Pas de Calais region in France using statistical modelling and spatial econometrics. 
 
-I am an avid debater and Model UN enthusiast. I have participated in over 50 parliamentary debates and Model UN conferences. This is where I get to argue, refine and contextualise my views. I love debating as a mental exercise because it helps me devlop my critical thinking ability as well as question the reasoning and evidence behind a statement. I have often applied these skills to scientific reasoning and hypothesis building. I often conduct training sessions for students in the field of leadership and public speaking.
+<!-- I am an avid debater and Model UN enthusiast. I have participated in over 50 parliamentary debates and Model UN conferences. This is where I get to argue, refine and contextualise my views. I love debating as a mental exercise because it helps me devlop my critical thinking ability as well as question the reasoning and evidence behind a statement. I have often applied these skills to scientific reasoning and hypothesis building. I often conduct training sessions for students in the field of leadership and public speaking. -->
 
 When I am not in front of a computer screen, I enjoy hiking to remote lands and cycling. I am always open to a match of lawn tennis or badminton. You can often find me reading Jeffrey Archer or humming to The Lumineers. I love indie and rock music ♪. You can know me better from my [music](https://open.spotify.com/playlist/55TKQygNmJjb38rjaDZ3NN?si=luxTkgeqRxC9rrDT4Mhe3A). In my last, Myers-Briggs personality test, I tested as ESTJ.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé {{< /staticref >}}.

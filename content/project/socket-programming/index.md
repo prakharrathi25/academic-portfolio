@@ -1,11 +1,9 @@
 ---
-title: Data Storyteller
-summary: Data Storyteller is an AI based tool that can take a data set, identify patterns in the data, can interpret the result, and can then produce an output story that is understandable to a business user based on the context.
+title: Socket Programming
+summary: Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server.
 tags:
-- apps
-- data science
-- nlp
-date: "2021-05-16T00:00:00Z"
+- rest
+date: "2020-11-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/prakharrathi25/data-storyteller"

@@ -36,7 +36,7 @@ content:
   - name: Tools and Applications
     tag: apps
   - name: Others
-    tag: 'rest'
+    tag: rest
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

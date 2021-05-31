@@ -62,7 +62,7 @@ experience:
 
       * I conducted various test to ascertain the results which included downside risk measures like Value at Risk, CVaR, Semideviation, Sharpe and Sortino Ratios. I also developed pipelines which automated the process of investing and testing on past data using Python.
 
-      * Developed and deployed a machine learning tool for the Union Bank of India which allotted risk scores to customers based on past customer data. The bank used the model to decide which customers would receive a loan. My risk allocation model brought down the customer default rate by 12% on 2 years of testing data.
+      * Developed and deployed a machine learning tool for the Union Bank of India which allotted risk scores to customers based on past customer data. The bank used the model to decide which customers would receive a loan. My risk allocation model brought down the customer default rate by 11% on 2 years of testing data.
 
       * Assisted ongoing research in the ﬁeld of ﬁnancial machine learning to help write a paper which was accepted in The Financial Review.
   

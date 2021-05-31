@@ -25,8 +25,8 @@ email: pr440@snu.edu.in
 address:
   # street: 450 Serra Mall
   city: New Delhi
-  # region: CA
-  # postcode: '94305'
+  region: India
+  postcode: '110077'
   country: India
   country_code: IN
 # coordinates:
@@ -38,14 +38,10 @@ address:
   # - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/prakharrathi14'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'https://www.linkedin.com/in/prakhar-rathi/'
   # - icon: keybase
   #   icon_pack: fab
   #   name: Chat on Keybase
