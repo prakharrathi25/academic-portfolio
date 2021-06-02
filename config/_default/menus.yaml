@@ -15,16 +15,19 @@ main:
     weight: 20
   - name: Blog
     url: '#posts'
-    weight: 30
+    weight: 50
   - name: Publications
     url: '#publications'
     weight: 55
   - name: Achievements
     url: '#achievements'
-    weight: 50
+    weight: 30
+  - name: Community
+    url: '#community'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 65
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

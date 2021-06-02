@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 80
 
 title: Recent Posts
 subtitle: I like to write about data science, machine learning and finance. I document personal experiences and projects.

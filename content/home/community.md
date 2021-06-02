@@ -3,13 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 100
 
 title: Community Building
 subtitle: The actvities I engage in to promote learning and skill development within my peers.
@@ -33,8 +33,9 @@ experience:
     date_end: 
     description: |2-
     
-        * Head of Developer Student Club, Shiv Nadar University which is the official community of Google Developers on campus. 
-        * Leading university wide projects which have a deep impact on the community around our campus. 
+        * Head of Developer Student Club, Shiv Nadar University which is the official community of Google Developers on campus with over 350 community members. 
+        * Leading a team of 30 student volunteers who work on university-wide projects  which have a deep impact on stakeholders on and around our campus. 
+        * We also take monthly sessions on new and upcoming Google technologies like Google Cloud, Tensorflow, Firebase etc. The details about our work are available on our [social media pages](https://www.instagram.com/dsc.snu/)
     
   - title: Vice Chairperson
     company: Association for Computing Machinery (ACM), SNU
@@ -45,20 +46,34 @@ experience:
     date_end: '2020-12-31'
     description: |2-
     
-        * Head of Developer Student Club, Shiv Nadar University which is the official community of Google Developers on campus. 
-        * Leading university wide projects which have a deep impact on the community around our campus. 
+        * Vice-Chair of the official chapter of ACM in SNU. Started and led a special interest group for Machine Learning under ACM, SNU Chapter to promote peer learning and targeted skill development among students. 
+        * Closely mentored 5 undergraduate students to learn ML and apply it to research projects within their field of interest. Made unique curriculum, discussed project ideas and organized mentor sessions for each student in the group.
+        * Organized the biggest hackathon - HackData in SNU with over 150 participants over a period of three days. 
+  
+  - title: Founder, Vice President
+    company: Artificial Intelligence Society, SNU
+    company_url: 'https://www.instagram.com/snu.ai/'
+    company_logo: 
+    location: Greater Noida, Uttar Pradesh
+    date_start: '2020-01-01'
+    date_end: '2021-03-15'
+    description: |2-
+    
+        * Founded a research society, [SNU.ai](), at Shiv Nadar University to promote AI Research across different disciplines.
+        * Mentored over 100 undergrads to learn ML and apply it to research projects within their field of interest.
+        * Organized talks and webinars with various AI researchers from different parts of the world.
     
   - title: President
     company: Debating Society, SNU
     company_url: 'https://snu.acm.org/core-committees-2020/'
-    company_logo: 'community/acm'
+    company_logo:
     location: Greater Noida, Uttar Pradesh
     date_start: '2020-01-01'
     date_end: '2020-12-31'
     description: |2-
     
-        * Head of Developer Student Club, Shiv Nadar University which is the official community of Google Developers on campus. 
-        * Leading university wide projects which have a deep impact on the community around our campus. 
+        * Elected the president of the college debating society where we debate in the Asian and British Parliamentary Style format. 
+        * A-level adjudicator and semi-finalist at the Amity University Tournament.
 design:
   columns: '2'
 ---

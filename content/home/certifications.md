@@ -37,7 +37,8 @@ item:
   date_end: ""
   date_start: "2020-03-01"
   description: ""
-  organization: Coursera
+  organization: Google Cloud
+  company_logo: 'certifications/google-cloud'
   organization_url: https://www.coursera.org
   title: Introduction to Trading, Machine Learning & GCP by Google Cloud & New York Institute of Finance
   url: 
@@ -58,7 +59,7 @@ item:
     
     * I completed Udacity's 6-month long nanodegree program. In this program, I analyzed real data and built financial models for trading. The program was divided into two parts.
 
-    Part 1: Quantitative Trading \\
+    Part 1: Quantitative Trading 
     Part 2: AI Algorithms in Trading
 
   organization: Udacity

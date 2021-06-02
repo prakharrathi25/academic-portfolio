@@ -7,7 +7,7 @@ design:
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Achievements
-weight: 80
+weight: 70
 
 ---
 
