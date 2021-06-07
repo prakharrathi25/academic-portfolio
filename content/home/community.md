@@ -68,8 +68,8 @@ experience:
     company_url: 'https://snu.acm.org/core-committees-2020/'
     company_logo:
     location: Greater Noida, Uttar Pradesh
-    date_start: '2020-01-01'
-    date_end: '2020-12-31'
+    date_start: '2019-01-01'
+    date_end: '2020-01-01'
     description: |2-
     
         * Elected the president of the college debating society where we debate in the Asian and British Parliamentary Style format. 
