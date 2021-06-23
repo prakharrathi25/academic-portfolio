@@ -8,7 +8,7 @@ tags:
 date: "2021-05-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/prakharrathi25/data-storyteller"
+external_link: "https://share.streamlit.io/prakharrathi25/data-storyteller/main/app.py"
 
 url_code: "https://github.com/prakharrathi25/data-storyteller"
 url_pdf: ""
