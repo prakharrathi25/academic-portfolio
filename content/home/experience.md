@@ -34,7 +34,7 @@ experience:
         * Worked with the highest ranked research institute in France on a problem of suicide analysis in Lille.
         * Used the socio-economic data collected from people who attempted suicide to predict whether they would attempt it again. It was also used to identify the factors which contribute to first time and repeated attempts.
         * Implemented the concepts of semi-parametric regression, statistical modelling and spatial econometrics using R.   
-        * Our work determined the probablity of suicide attempts in the next 6 months with an AUC Score of 0.89. This work will be submitted to the local government in Lille and a paper will also be written.
+        * Our work determined the probability of suicide attempts in the next 6 months with an AUC Score of 0.89. This work will be submitted to the local government in Lille and a paper will also be written.
         
   - title: Data Study Group Participant
     company: Alan Turing Institute for Artificial Intelligence
