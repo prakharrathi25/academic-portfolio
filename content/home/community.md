@@ -30,12 +30,13 @@ experience:
     company_logo: 'community/google-developers'
     location: Greater Noida, Uttar Pradesh
     date_start: '2020-08-01'
-    date_end: 
+    date_end: '2021-07-01'
     description: |2-
     
         * Head of Developer Student Club, Shiv Nadar University which is the official community of Google Developers on campus with over 350 community members. 
         * Leading a team of 30 student volunteers who work on university-wide projects  which have a deep impact on stakeholders on and around our campus. 
         * We also take monthly sessions on new and upcoming Google technologies like Google Cloud, Tensorflow, Firebase etc. The details about our work are available on our [social media pages](https://www.instagram.com/dsc.snu/)
+        * Ceftificate of completion for my tenure can be accessed [here](https://dsc-certify.web.app/c/E1E65DC9AF53).
     
   - title: Vice Chairperson
     company: Association for Computing Machinery (ACM), SNU

@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Recent Posts
-subtitle: I like to write about data science, machine learning and finance. I document personal experiences and projects.
+subtitle: I like to write about data science, machine learning and finance. I document personal experiences and projects. I write for organizations like **Towards Data Science**, **The Startup**, **Level up Coding** and **Analytics Vidhya**. It's mostly technical content broken down for non-technical audiences. 
 
 content:
   # Page type to display. E.g. post, talk, publication...
