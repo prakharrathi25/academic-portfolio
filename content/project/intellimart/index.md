@@ -3,7 +3,7 @@ title: Intellimart
 summary: Platform that supports the users in their trips to the supermarket by optimising their visit. Application to display all nearby stores, product catalog and stock-on-hand to prevent hoarding and breach of social distancing protocol for users and streamline inventory management for local shopkeepers.
 tags:
 - apps
-date: "2020-12-10T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/prakharrathi25/Econometrics-End-Term-Project"
