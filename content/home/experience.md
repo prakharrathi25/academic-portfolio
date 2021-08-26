@@ -22,6 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Data Science for Social Good Fellow
+    company: University of Warwick
+    company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/'
+    company_logo:
+    location: Coventry, United Kingdom
+    date_start: '2021-08-27'
+    date_end: '2021-06-07'
+    description: |2-
+    
+        * Working with the German Federal Ministry of Economics and Technology on a project to strengthen their economic forecasts during times of shocks using machine learning Methods.
+        * Built vector autoregression models to forecast quarterly unemployment rates at the county level in Germany. 
+
+  - title: MLH Fellow
+    company: Major League Hacking
+    company_url: 'https://fellowship.mlh.io/'
+    company_logo: org-mlh
+    location: Remote
+    date_start: '2021-08-16'
+    date_end: '2021-07-19'
+    description: |2-
+    
+        * Selected for the MLH Pre-Fellowship in a team of 10 members. 
+        * Contributed to a portfolio template website using Ruby, Jekyll and JavaScript. 
+        * Worked in a subgroup of three members to build 'GitDash' - a GitHub dashboard to track all the things a person is working on, along with reminders and GitHub data aggregator.
+        * Used Technologies like Next.Js, TypeScript and Github Rest API.
+        * Won the prize for the "Best Pod Project"!
+
   - title: Research Intern
     company: National Institute for Research in Digital Science and Technology (INRIA)
     company_url: 'https://www.inria.fr/en'

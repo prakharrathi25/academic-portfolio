@@ -74,7 +74,7 @@ highlight_name: false
 
 I am a data scientist with a passion for creating innovative solutions to complex problems. I am a senior at Shiv Nadar University, India and I will graduate in 2022. I am majoring in Computer Science Engineering with a minor in Economics.
 
-<!-- Currently, I am a [Data Science for Social Good fellow](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/) at the University of Warwick.  -->
+Currently, I am a [Data Science for Social Good fellow](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/) at the University of Warwick. 
 
 Previously, I was working as a research intern with the [Inria-Modal Group](https://www.inria.fr/en) to identify and isolate the causes of suicides in Nord-Pas de Calais region in France using statistical modelling and spatial econometrics. 
 
