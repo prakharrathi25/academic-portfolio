@@ -6,7 +6,7 @@ summary: An end-to-end machine learning project series. Text Analysis and Model 
 # projects: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-using-heroku-part-2-d681e397f258"
+external_link: "https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-using-heroku-part-2-d681e397f258?source=friends_link&sk=e7086ecaf76d04f5cdc6b2077f4d346b"
 
 # Date published
 date: "2020-05-28T00:00:00Z"

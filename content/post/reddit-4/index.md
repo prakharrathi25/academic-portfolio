@@ -6,7 +6,7 @@ summary: An end-to-end machine learning project series. Deploying the applicatio
 # projects: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-using-heroku-part-4-7d5cb923d3d3"
+external_link: "https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-using-heroku-part-4-7d5cb923d3d3?sk=546da054ceb84146643e73e874123e81"
 
 # Date published
 date: "2020-06-08T00:00:00Z"

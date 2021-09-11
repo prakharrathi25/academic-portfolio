@@ -5,7 +5,7 @@ summary: An iterative approach to predicting which hand will win the match. An u
 # projects: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://medium.com/analytics-vidhya/poker-hand-prediction-67288a0a96ed"
+external_link: "https://medium.com/analytics-vidhya/poker-hand-prediction-67288a0a96ed?source=friends_link&sk=97aa288e38639ddba801bafbd8a9cffd"
 
 # Date published
 date: "2020-03-26T00:00:00Z"

@@ -6,7 +6,7 @@ summary: Machine learning interpretability is a topic of growing importance in t
 # projects: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://towardsdatascience.com/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b"
+external_link: "https://towardsdatascience.com/predicting-reddit-flairs-using-machine-learning-and-deploying-the-model-using-heroku-part-4-7d5cb923d3d3?sk=546da054ceb84146643e73e874123e81"
 
 # Date published
 date: "2020-07-02T00:00:00Z"

@@ -3,7 +3,7 @@ title: Downside Risk Measures — Python Implementation
 summary: Implementing Semideviation, VaR and CVaR risk estimation strategies in Python. Downside risk is when the returns go lower than the buy price and how to estimate them. 
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://medium.com/swlh/downside-risk-measures-9a013d03800d"
+external_link: "https://medium.com/swlh/downside-risk-measures-9a013d03800d?sk=4ce7e89e1af95b3fa842de4d9127d160"
 
 # Date published
 date: "2020-08-24T00:00:00Z"
