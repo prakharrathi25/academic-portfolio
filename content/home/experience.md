@@ -28,8 +28,8 @@ experience:
     company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/'
     company_logo:
     location: Coventry, United Kingdom
-    date_start: '2021-08-27'
-    date_end: '2021-06-07'
+    date_start: '2021-06-07'
+    date_end: '2021-08-27'
     description: |2-
     
         * Working with the German Federal Ministry of Economics and Technology on a project to strengthen their economic forecasts during times of shocks using machine learning Methods.
@@ -40,8 +40,8 @@ experience:
     company_url: 'https://fellowship.mlh.io/'
     company_logo: org-mlh
     location: Remote
-    date_start: '2021-08-16'
-    date_end: '2021-07-19'
+    date_start: '2021-07-19'
+    date_end: '2021-08-16'
     description: |2-
     
         * Selected for the MLH Pre-Fellowship in a team of 10 members. 
