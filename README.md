@@ -1,6 +1,8 @@
 
 # Academic Portfolio
 
+To run locally `hugo serve` 
+
 ## Access [Here](https://prakharrathi25.netlify.app/)
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
