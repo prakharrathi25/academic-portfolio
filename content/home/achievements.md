@@ -11,6 +11,7 @@ weight: 70
 
 ---
 
+* Won the ['Mindfire Quest'](https://platform.mindfire.global/quests/unveil-the-obscure-network-of-company-and-location-data-using-smart-algorithms-and-data-wrangling) organized by Swiss Re and won CHF 23000 cash prize. 
 * Represented Team India at the Global Finals of the **KPMG Ideation Challenge (KIC) 2021** after being selected from among 12000 teams. At the global finals, we were selected amongst the Top-4 teams. 
 * Dean's List for Academic Excellence given to the **Top 5% CGPA holders** in the department. (4 semesters)
 * Finalist, **Smart India Hackathon**. Worked on a project for Cisco Devnet using Meraki Camera and it's APIs. (2020)
