@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Data Analyst
+    company: American Express
+    company_url: 'https://www.americanexpress.com/en-in/'
+    company_logo: org-amex
+    location: Gurugram, India
+    date_start: '2022-01-17'
+    date_end: '2022-07-15'
+    description: |2-
+    
+        * Part of the GCCM Team
+
+
   - title: Data Science for Social Good Fellow
     company: University of Warwick
     company_url: 'https://warwick.ac.uk/research/data-science/warwick-data/dssgx/'
@@ -32,8 +44,9 @@ experience:
     date_end: '2021-08-27'
     description: |2-
     
-        * Working with the German Federal Ministry of Economics and Technology on a project to strengthen their economic forecasts during times of shocks using machine learning Methods.
+        * Worked with the German Federal Ministry of Economics and Technology on a project to strengthen their economic forecasts during times of shocks using machine learning Methods.
         * Built vector autoregression models to forecast quarterly unemployment rates at the county level in Germany. 
+        * Our novel method beat the existing forecasting methods and the popular time series models applied to this problem. The details of our solution can be found on the [Github page](https://github.com/DSSGxUK/bmwi). 
 
   - title: MLH Fellow
     company: Major League Hacking

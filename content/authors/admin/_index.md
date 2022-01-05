@@ -74,9 +74,9 @@ highlight_name: false
 
 I am a data scientist with a passion for creating innovative solutions to complex problems. I am a senior at Shiv Nadar University, India and I will graduate in 2022. I am majoring in Computer Science Engineering with a minor in Economics.
 
-Currently, I am a [Data Science for Social Good fellow](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/) at the University of Warwick. 
+Currently working as a Data Analyst with the Global Call and Contact Management team at [American Express](https://www.americanexpress.com/).
 
-Previously, I was working as a research intern with the [Inria-Modal Group](https://www.inria.fr/en) to identify and isolate the causes of suicides in Nord-Pas de Calais region in France using statistical modelling and spatial econometrics. 
+Previously, I was working as a research intern with the [Inria-Modal Group](https://www.inria.fr/en) to identify and isolate the causes of suicides in Nord-Pas de Calais region in France using statistical modelling and spatial econometrics. This summer I worked as a [Data Science for Social Good fellow](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/) at the University of Warwick in collaboration with the German Federal Minsitry for Economic Affairs (BMWi)
 
 <!-- I am an avid debater and Model UN enthusiast. I have participated in over 50 parliamentary debates and Model UN conferences. This is where I get to argue, refine and contextualise my views. I love debating as a mental exercise because it helps me devlop my critical thinking ability as well as question the reasoning and evidence behind a statement. I have often applied these skills to scientific reasoning and hypothesis building. I often conduct training sessions for students in the field of leadership and public speaking. -->
 
