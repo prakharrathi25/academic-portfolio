@@ -23,16 +23,29 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: NLP Engineer
+    company: AI4Bhārat Lab, IIT Madras
+    company_url: 'https://ai4bharat.org/'
+    company_logo: org-iitm
+    location: Chennai, India
+    date_start: '2022-06-15'
+    date_end: '2022-08-15'
+    description: |2-
+    
+        * Working as a backend engineer for Project Shoonya 
+
   - title: Data Analyst
     company: American Express
     company_url: 'https://www.americanexpress.com/en-in/'
     company_logo: org-amex
     location: Gurugram, India
     date_start: '2022-01-17'
-    date_end: '2022-07-15'
+    date_end: '2022-06-15'
     description: |2-
     
-        * Part of the GCCM Team
+        * Part of the Global Optimisation and Call Management (GOCM) team which serves both inbound and outbound calls from our members in the JAPA, EMEA and Americas markets, along with managing the customer support centres globally.
+        * Developed and deployed machine learning models to quantify the factors that affect the key metrics within the GOCM team. These models are able to forecast the metric outcomes with a mean average percentage error of 7\%. 
+        * Standardized the machine learning modelling and deployment practices within the GOCM to provide a roadmap for similar projects in the future, through extensive documentation and curated tutorials.
 
 
   - title: Data Science for Social Good Fellow
