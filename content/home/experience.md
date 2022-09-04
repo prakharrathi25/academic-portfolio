@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: NLP Engineer
+  - title: Machine Learning Engineer
     company: AI4Bhārat Lab, IIT Madras
     company_url: 'https://ai4bharat.org/'
     company_logo: org-iitm
@@ -32,7 +32,7 @@ experience:
     date_end: '2022-08-15'
     description: |2-
     
-        * Working as a backend engineer for Project Shoonya 
+        * Working with the AI4Bharat Lab which is focused on building open-source language AI for Indian languages, including datasets, models, and applications. 
 
   - title: Data Analyst
     company: American Express

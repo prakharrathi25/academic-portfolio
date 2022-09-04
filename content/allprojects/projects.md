@@ -35,6 +35,8 @@ content:
     tag: data science
   - name: Tools and Applications
     tag: apps
+  - name: Open-Source
+    tag: open-source
   - name: Others
     tag: rest
 

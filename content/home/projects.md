@@ -30,7 +30,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: Deep Learning not
     tag: Deep Learning
   - name: Natural Language Processing
     tag: nlp
@@ -38,6 +38,8 @@ content:
     tag: Data Science
   - name: Tools and Applications
     tag: apps
+  - name: Open Source
+    tag: open-source
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -51,5 +53,5 @@ design:
   view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

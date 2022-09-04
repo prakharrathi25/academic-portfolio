@@ -14,7 +14,7 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: 'Shiv Nadar University'
+org_name: 'American Express'
 description: ''
 twitter: 'prakharrathi14'
 
@@ -24,9 +24,9 @@ email: pr440@snu.edu.in
 # phone: 888 888 88 88
 address:
   # street: 450 Serra Mall
-  city: New Delhi
-  region: India
-  postcode: '110077'
+  city: Gurugram
+  region: Haryana
+  postcode: '122006'
   country: India
   country_code: IN
 # coordinates:
