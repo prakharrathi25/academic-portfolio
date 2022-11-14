@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Scientist 
+    company: American Express
+    company_url: 'https://www.americanexpress.com/en-in/'
+    company_logo: org-amex
+    location: Gurugram, India
+    date_start: '2022-08-02'
+    date_end: 
+    description: |2-
+    
+        * Part of the Global Optimisation and Call Management (GOCM) team which serves both inbound and outbound calls from our members in the JAPA, EMEA and Americas markets, along with managing the customer support centres globally.
+        * Led the machine learning and forecasting efforts within the GOCM team to support the operations team in their real-time call volume handling. 
+        * Helped the Complaints segment to forecast their complaint volumes for the next quarter and developed a model to recommend a staffing strategy, which led to the creation of staffing plans for the EMEA, Americas and APAC regions for the next quarter.  
+
 
   - title: Machine Learning Engineer
     company: AI4Bhārat Lab, IIT Madras
@@ -31,10 +44,17 @@ experience:
     date_start: '2022-06-15'
     date_end: '2022-08-15'
     description: |2-
-    
-        * Working with the AI4Bharat Lab which is focused on building open-source language AI for Indian languages, including datasets, models, and applications. 
 
-  - title: Data Analyst
+        
+        - AI4Bharat is a Research Center at IIT Madras focused on developing ML-based solutions for Indian communities. I was working as a contributor for the Shoonya Project and the Chitralekha Project. 
+        
+        - Shoonya is a data labeling and annotation tool built to enhance digital presence of under-represented languages in India. Chitralekha is an open source platform tool for video subtitling across various Indic languages, using ML model support. Both the platforms are currently being used by 100+ annotators across India who are skilled translation experts.
+
+        - Developed a React and Django based web portal to annotate and store the text translations from English to Indian languages and vice-versa. 
+        - Wrote efficient code for the logic of the APIs and Webhooks used by the platform for both internal and external software functionalities. 
+        - Implemented multiple async functionalities in the project using celery and Django to speed up the application.
+
+  - title: Analyst Intern
     company: American Express
     company_url: 'https://www.americanexpress.com/en-in/'
     company_logo: org-amex
