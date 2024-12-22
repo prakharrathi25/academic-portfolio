@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Manager - Analytics and Workforce Planning
+    company: American Express
+    company_url: 'https://www.americanexpress.com/en-in/'
+    company_logo: org-amex
+    location: Gurugram, India
+    date_start: '2024-07-29'
+    date_end: 
+    description: |2-
+    
+        * Lead a team of 27 analysts, optimizing workforce strategies and providing consultative and execution support to Global New Accounts (GNA), across 20 international markets to ensure achievement of critical operational metrics.
+        * Define and implement market-specific inbound and outbound customer contact strategies, driving higher net card approvals and minimizing financial and operational risk, based on market regulations.
+        * Spearhead the Automation COE, responsible for identifying process gaps and creating customized tools and solutions to enhance process efficiencies within my B45 remit.
+
   - title: Data Scientist 
     company: American Express
     company_url: 'https://www.americanexpress.com/en-in/'
     company_logo: org-amex
     location: Gurugram, India
     date_start: '2022-08-02'
-    date_end: 
+    date_end: '2024-07-28'
     description: |2-
     
         * Part of the Global Optimisation and Call Management (GOCM) team which serves both inbound and outbound calls from our members in the JAPA, EMEA and Americas markets, along with managing the customer support centres globally.
